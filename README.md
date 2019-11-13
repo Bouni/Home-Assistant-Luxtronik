@@ -1,5 +1,11 @@
 # Home-Assistant-Luxtronik
 
+
+
+**DEPRECATED: This repo is no longer maintained as an [official Home-Assitant component](https://github.com/home-assistant/home-assistant/pull/27230) is comming soon&trade;**
+
+
+
 A Luxtronik heatpump component for Home Assistant
 
 This component is going to use the "old" binary protocol that Alpha Innotec, the manufacturer of the Luxtronik heatpumps, used in its Java based webinterface. They added a new, websockets based webinterface in newer versions, but in order to make this a useful component to as much users as possible we decided to stick with the binary protocol.
